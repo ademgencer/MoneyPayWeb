@@ -1,4 +1,4 @@
-# Bu proje, moneypay ana sayfasındaki header menu elemnetlerine dair örnek bir test otomasyon senaryosu içerir.
+# Bu proje, moneypay ana sayfasındaki header menu elementlerine dair örnek bir test otomasyon senaryosu içerir.
 ## Proje Java OOP, Selenyum, TestNG, Cucumber ve Page Object Model konseptiyle Singleton Driver kullanılarak hazırlanmış ve Maven ile build edilmiştir.
 ![](https://github.com/ademgencer/MoneyPayWeb/blob/master/screenShots/moneyPayWeb_Run.gif)
 
